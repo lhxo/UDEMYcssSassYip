@@ -2,3 +2,5 @@
 This is a repository for my work done on the Advanced CSS &amp; Sass class I am taking on Udemy started on 7/28/24
 
 Section 2: Natours Project - https://docs.google.com/document/d/1t2XtmD7xLhl9FF0pHI0OgrfLqFE69OpcSrHpkhea68g/edit?usp=sharing
+
+Section 3: How CSS WOrks: A Look Behind the Scenes - https://docs.google.com/document/d/1g6QQ4O-_BCyAi8ui18WErk8y8Q3MOZqkbwKJ1oB-bPw/edit?usp=sharing
