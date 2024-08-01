@@ -7,3 +7,4 @@ Section 3: How CSS WOrks: A Look Behind the Scenes - https://docs.google.com/doc
 
 Section 4: Introduction to Sass and NPM: https://docs.google.com/document/d/1jZ9X18IbzkO_aiZUQVbF03vl_9_kIBKn7nkFMx3kvDE/edit?usp=sharing
 
+Section 5: Natours Project - Using Advanced CSS and Sass - https://docs.google.com/document/d/19_r1TNBpQC0s4fbiUieVFOt4vHTClehwAxayphuA99I/edit?usp=sharing
